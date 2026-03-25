@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tharindu 👋
 
-<!--
-**tharindu-data/tharindu-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Physical Science Graduate  
+📊 Aspiring Data Analyst  
+💻 Learning Python & Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am passionate about data analysis and building dashboards.
+
+---
+
+## Skills
+- Power BI
+- Excel
+- Python (Learning)
+- HTML, CSS, JavaScript
+
+---
+
+## Projects
+- KPI Dashboard
+- Auditing System
+
+---
+
+## Goals
+- Become Data Scientist
+- Build strong portfolio
+
+---
+
+## Contact
+- Email: tharindushyaman1999@gmail.com
