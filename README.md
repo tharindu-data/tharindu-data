@@ -14,6 +14,7 @@ I am passionate about data analysis and building dashboards.
 ## Skills
 - Power BI
 - Excel
+- SQL (Learning)
 - Python (Learning)
 - HTML, CSS, JavaScript
 
