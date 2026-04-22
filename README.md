@@ -1,49 +1,58 @@
 # Hi, I'm Tharindu 👋
 
-🎓 BSc Physical Science Graduate (Maths | Computer Science | Physics)  
-📊 Data Analyst | Power BI Developer  
-💻 Python Learner → Future Data Scientist  
+🎓 BSc Physical Science Graduate (Mathematics | Computer Science | Physics)
+📊 Data Analyst | Power BI Developer | SQL
+🐍 Python for Data Analytics
+🚀 Open to Data / BI / Analytics Opportunities
 
 ---
 
 ## 🔥 About Me
-I am a detail-oriented Data Analyst with experience in:
-- KPI Reporting & HR Analytics
-- Power BI Dashboard Development
-- Business Data Analysis
 
-I have built real-world solutions including a full-stack Auditing System and interactive dashboards for decision-making.
+I build data-driven solutions that help businesses improve decision-making, reporting, and operational efficiency.
 
----
+### Experience Areas:
 
-## 🛠 Skills
-- Power BI (DAX, Data Modeling, Dashboards)
-- Excel (Advanced, KPI Reporting)
-- Python (Pandas, Matplotlib - Learning)
-- HTML, CSS, JavaScript, Node.js
+* KPI Reporting & Performance Tracking
+* HR Analytics & Workforce Insights
+* Interactive Power BI Dashboards
+* Business Data Analysis
+* Process Automation with Python
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-### 📊 KPI Dashboard (Power BI)
-- Built interactive HR analytics dashboard
-- Dynamic filters for department, performance, and status
-
-### 🧾 Auditing System (Full Stack)
-- Developed independently
-- Used for compliance tracking and reporting
+* **BI Tools:** Power BI, Excel
+* **Languages:** SQL, Python, JavaScript
+* **Web:** HTML, CSS, Node.js
+* **Python Libraries:** Pandas, Matplotlib
 
 ---
 
-## 🎯 2026 Goals
-- Become a top-tier Data Analyst
-- Master Python for Data Analysis
-- Build advanced portfolio projects
-- Secure a high-paying tech role
+## 🚀 Featured Projects
+
+### 📊 KPI Dashboard
+
+Interactive HR analytics dashboard with filters, KPIs, and workforce insights.
+
+### 🧾 Auditing System
+
+Full-stack compliance tracking and reporting system built independently.
+
+### 📈 Upcoming Projects
+
+* Sales Forecast Dashboard
+* SQL Business Insights Project
+* Python Data Cleaning Automation
 
 ---
 
 ## 📫 Contact
-- Email: your email here
-- LinkedIn: (add soon)
+
+📧 tharindushyaman1999@gmail.com
+💼 
+
+---
+
+⭐ Always learning. Always building.
