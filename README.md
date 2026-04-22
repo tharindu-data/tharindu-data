@@ -51,7 +51,7 @@ Full-stack compliance tracking and reporting system built independently.
 ## 📫 Contact
 
 📧 tharindushyaman1999@gmail.com
-💼 
+💼 https://linkedin.com/in/tharindu-shyaman-b032242b8
 
 ---
 
