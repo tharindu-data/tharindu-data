@@ -30,24 +30,6 @@ I build data-driven solutions that help businesses improve decision-making, repo
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 KPI Dashboard
-
-Interactive HR analytics dashboard with filters, KPIs, and workforce insights.
-
-### 🧾 Auditing System
-
-Full-stack compliance tracking and reporting system built independently.
-
-### 📈 Upcoming Projects
-
-* Sales Forecast Dashboard
-* SQL Business Insights Project
-* Python Data Cleaning Automation
-
----
-
 ## 📫 Contact
 
 📧 tharindushyaman1999@gmail.com
